@@ -8,7 +8,7 @@
 
 ### 1. Fork BounceBit-App-Store Repository
 
-Initiate the process by creating a fork of our repository [BounceBit-App-Store](https://github.com/BounceBit-Labs/BounceBit-App-Store). 
+Initiate the process by creating a fork of our repository [BounceBit-App-Store](https://github.com/BounceBit-Labs/BounceBit-App-Store)
 
 ### 2. Add a New Folder for Your Project
 
