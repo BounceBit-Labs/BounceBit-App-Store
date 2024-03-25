@@ -8,5 +8,5 @@
   https://explorer.zksync.io/address/0xc94025c2eA9512857BD8E1e611aB9b773b769350#contract
 
   nft OmniStamp image: https://mailzero.network/BounceBitOmniStamp.png
-  nft GenesisStamp image: https://mailzero.network/MailZeroxBounceBitGenesisStamp(commemoration).png
+  nft GenesisStamp image: https://mailzero.network/MailZeroxBounceBitGenesisStamp.png
   ```
