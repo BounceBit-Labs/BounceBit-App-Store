@@ -8,7 +8,7 @@ PicWe is An Omni-chain Decentralized Securities Trader Infra.Here`s the Highligh
 3.With our Starlight (AA) wallet users can easily enter the blockchain world.
 
 ### App Icon
-[![2024-03-27-165141.png](https://i.postimg.cc/Ssd09ghD/2024-03-27-165141.png)](https://postimg.cc/WFdfL6tk)
+[![logo4.png](https://i.postimg.cc/0ydXNcqQ/logo4.png)](https://postimg.cc/mPkyX3kf)
 
 #### App Link
 [website](https://app.picwe.org/)
