@@ -5,7 +5,7 @@ PicWe
 以交易员为主要服务对象的社交性app，包括了交易图表的交流，实时交易等功能
 
 ### 应用图标
-![picwe](https://picwe.org/images/ourslogo.png)
+[![2024-03-27-164213.png](https://i.postimg.cc/7YcVVGqq/2024-03-27-164213.png)](https://postimg.cc/HVwXWLJN)
 
 #### 应用链接
 [官方网址](https://picwe.org/)
