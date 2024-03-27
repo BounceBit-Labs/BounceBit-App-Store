@@ -1,16 +1,19 @@
-# 应用名称
+# App Name
 PicWe
 
-## 应用描述
-以交易员为主要服务对象的社交性app，包括了交易图表的交流，实时交易等功能
+## App Description
+PicWe is An Omni-chain Decentralized Securities Trader Infra.Here`s the Highlights:
+1.Create Public Goods for Massive Adoption by State Identification Service(SIS) which is the New Infrastructure for Layer 3. With SIS we can Make Builder Easier and Make Assets Safe.
+2.Aggregate Trading with the Cex&Dex.
+3.With our Starlight (AA) wallet users can easily enter the blockchain world.
 
-### 应用图标
-[![2024-03-27-164213.png](https://i.postimg.cc/7YcVVGqq/2024-03-27-164213.png)](https://postimg.cc/HVwXWLJN)
+### App Icon
+[![2024-03-27-165141.png](https://i.postimg.cc/Ssd09ghD/2024-03-27-165141.png)](https://postimg.cc/WFdfL6tk)
 
-#### 应用链接
-[官方网址](https://picwe.org/)
+#### App Link
+[website](https://app.picwe.org/)
 
-##### 智能合约源代码
+##### Smart Contract Source Code
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
