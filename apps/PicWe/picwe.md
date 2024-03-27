@@ -1,4 +1,4 @@
-# App Name
+## App Name
 PicWe
 
 ## App Description
