@@ -1,5 +1,5 @@
 - **App Name**: BitBrain
-- **App Icon**: ![BitBrain Logo](bitbrain_logo.png)
+- **App Icon**: <img src="./bitbrain_logo.png" width="32">
 - **App Description**: BitBrain integrates a high-perfermance agent frame which allows users train AI by any data and set detailed instructs of the agent to get a controlled response. Users can deploy and publish the agent to most popular platforms like BounceClub, Discord, etc..
 - **One Liner for Your Application**: One-Click to AI for all communities
 - **App Category**:  SocialFi, AI
