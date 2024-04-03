@@ -1,0 +1,7 @@
+- **App Name**: OwlMarket
+- **App Icon**: ![OwlMarket-Icon](./owlmarketicon.svg).
+- **App Description**: OwlMarket is the web3 marketplace for NFTs and crypto collectibles. Browse, create, buy, sell, and auction NFTs using OwlMarket today
+- **One Liner for Your Application**: Decentralized NFTs Marketplace supports ERC20 ecosystem.
+- **App Category**: NFT
+- **App Link**: https://market.owlstake.com
+- **Screenshots / Picture / Banner**: ![OwlMarket-Screenshot](./owlmarket-screenshot.png)
