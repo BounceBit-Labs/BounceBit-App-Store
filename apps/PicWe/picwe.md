@@ -14,4 +14,5 @@ PicWe is An Omni-chain Decentralized Securities Trader Infra.Here`s the Highligh
 [website](https://app.picwe.org/)
 
 ##### Smart Contract Source Code
-https://github.com/Copariot-Labs/StateIdentification-contract.git
+[Source Code link](https://github.com/Copariot-Labs/StateIdentification-contract.git)
+
