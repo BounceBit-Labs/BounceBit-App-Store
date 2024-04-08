@@ -1,0 +1,8 @@
+- **App Name**: Box Stack
+- **App Icon**: ![BoxStack](./BoxStack.jpg)
+- **App Description**: "Box Stack" is an adventure challenging gravity. Cleverly stack boxes of various shapes to build your tower as high as possible. Use your skills to prevent the tower from collapsing.
+- **One Liner for Your Application**: "Box Stack" is an adventure challenging gravity.
+- **App Category**: GameFi.
+- **App Link**: 
+- **Screenshots / Picture / Banner**: ![BoxStack_Banner](./BoxStack_Banner.jpg)
+- **Link to App’s GitHub Repository**: BounceBit

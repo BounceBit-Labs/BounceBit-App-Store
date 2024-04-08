@@ -1,0 +1,8 @@
+- **App Name**: Falling Blocks
+- **App Icon**: ![Falling-Blocks](./Falling-Blocks.jpg)
+- **App Description**: Falling Blocks, a game of skill and quickness. Align falling blocks in a way that they form lines and give you points. Blocks come in various shapes. Put your reaction speed and strategy to the test.
+- **One Liner for Your Application**: Falling Blocks, a game of skill and quickness.
+- **App Category**: GameFi.
+- **App Link**: 
+- **Screenshots / Picture / Banner**: ![Falling-Blocks_Banner](./Falling-Blocks_Banner.jpg)
+- **Link to App’s GitHub Repository**: BounceBit

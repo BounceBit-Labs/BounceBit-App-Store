@@ -1,0 +1,8 @@
+- **App Name**: Shisen-Sho
+- **App Icon**: ![Shisen-Sho](./Shisen-Sho.jpg)
+- **App Description**: Shisen-Sho, is a treasure-hunting journey to find hidden pairs. Quickly identify and eliminate all identical patterns as fast as you can. This challenge will put your visual acuity and reaction speed to test.
+- **One Liner for Your Application**: Shisen-Sho, is a treasure-hunting journey to find hidden pairs.
+- **App Category**: GameFi.
+- **App Link**: 
+- **Screenshots / Picture / Banner**: ![Shisen-Sho_Banner](./Shisen-Sho_Banner.jpg)
+- **Link to App’s GitHub Repository**: BounceBit

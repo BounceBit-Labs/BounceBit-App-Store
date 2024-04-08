@@ -1,0 +1,8 @@
+- **App Name**: Five-In-A-Row
+- **App Icon**: ![Five-In-A-Row](./Five-In-A-Row.jpg)
+- **App Description**: Five-In-A-Row, a duel of intellect and strategy, where two players compete on who can connect five pieces on the board before the other one does. It is a exciting battle that requires precise calculations and deep thought.
+- **One Liner for Your Application**: Five-In-A-Row, a duel of intellect and strategy, where two players compete on who can connect five pieces on the board before the other one does.
+- **App Category**: GameFi.
+- **App Link**: 
+- **Screenshots / Picture / Banner**: ![Five-In-A-Row](./Five-In-A-Row_Banner.jpg)
+- **Link to App’s GitHub Repository**: BounceBit
