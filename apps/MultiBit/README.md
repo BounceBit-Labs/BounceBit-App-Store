@@ -1,5 +1,5 @@
 - **App Name**: MultiBit
-- **App Icon**: 80x80.png/logo.svg
+- **App Icon**: 80x80 image and svg image
    
    ![80x80.png](./80x80.png)
 
@@ -13,8 +13,9 @@
 
 - **App Link**: [https://multibit.exchange](https://multibit.exchange)
 
-- **Screenshots / Picture / Banner**: 
+- **Screenshots / Picture / Banner**: 1x/3x preview image
 ![Preview Banner](./preview.588x400.png)
+![3x Preview Banner](./preview.1764x1200.png)
 
 - **Link to App’s GitHub Repository**: [https://github.com/multibit-repo](https://github.com/multibit-repo)
 
