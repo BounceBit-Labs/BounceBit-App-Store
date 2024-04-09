@@ -26,7 +26,7 @@ In the newly created folder, include the following essential elements for your a
 - **App Link**: A direct link to where users can access your app.
 - **Screenshots / Picture / Banner**: Visual aids that showcase your app’s interface and functionality (size: 676 x 415).
 - **Link to App’s GitHub Repository**: For transparency into your app’s development and updates.
-- **Smart Contract Source Code**: For apps utilizing blockchain technology, include the source code of your smart contract for review. This is crucial for verifying the security and functionality of your app.
+
 
 
 ### 4. Submit a Pull Request
