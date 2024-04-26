@@ -1,0 +1,8 @@
+- **App Name**: Fractle
+- **App Icon**: 
+- **App Description**: Fractle Finance introduces an innovative yield derivatives platform that significantly boosts capital efficiency in yield trading across a variety of yield-bearing assets, including LSTs, LRTs, LPDs, RWAs, and more. By tripling the capital efficiency compared to existing solutions like Pendle Finance and introducing the first market solution for shorting yield rates, our platform fills a crucial gap in the market.Fractle significantly enriches the Bouncebit Ecosystem by introducing a unique yield trading platform, enhancing liquidity, and enabling innovative trading strategies. Positioned distinctively, it addresses the ecosystem's need for a comprehensive solution that permits both long and short positions on yield rates, which is currently unmet in Bouncebit Ecosystem. While platforms like Pendle offer yield trading solutions, Fractle sets itself apart by tripling capital efficiency and introducing the ecosystem's first yield rate shorting feature. This not only fills a vital gap but also offers Bouncebit users a more versatile and efficient trading experience compared to similar projects outside the ecosystem.
+- **One Liner for Your Application**: Fractle Finance introduces an innovative yield derivatives platform that significantly boosts capital efficiency in yield trading across a variety of yield-bearing assets, including LSTs, LRTs, LPDs, RWAs, and more.
+- **App Category**: DeFi.
+- **App Link**: https://fractle.finance/
+- **Screenshots / Picture / Banner**: 
+- **Link to App’s GitHub Repository**: https://github.com/Fractle-Finance
