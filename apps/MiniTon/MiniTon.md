@@ -1,7 +1,7 @@
 - **App Name**: MiniTon
 - **App Icon**: ![MiniTon-Icon](./MiniTon-logo.png)
-- **App Description**: MiniTon, a leading social Esports platform and a proud recipient of the TON Grant.
-- **One Liner for Your Application**: Miniton is a Ton-based multiplayer competition platform that integrates with Telegram Mini games to enable players to compete in skill-based tournaments for prizes.
+- **App Description**: Miniton is a Ton-based multiplayer competition platform that integrates with Telegram Mini games to enable players to compete in skill-based tournaments for prizes.
+- **One Liner for Your Application**: MiniTon, a leading social Esports platform and a proud recipient of the TON Grant.
 - **App Category**: GameFi, SocialFi
 - **App Link**: https://t.me/MiniTonBot
 - **Screenshots / Picture / Banner**: 
