@@ -13,14 +13,14 @@ body:
   - type: input
     id: club_wallet
     attributes:
-      label: Whitelist Address: BounceClub
+      label: "Whitelist Address: BounceClub"
       description: An address to create BounceClub for marketing.
     validations:
       required: true
   - type: input
     id: deploy_wallet
     attributes:
-      label: Whitelist Address: Deployment
+      label: "Whitelist Address: Deployment"
       description: An address for deploying contract.
     validations:
       required: true
