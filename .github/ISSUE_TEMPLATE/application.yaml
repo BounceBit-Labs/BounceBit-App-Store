@@ -1,0 +1,90 @@
+name: App Store Application
+description: Submit your protocols to be featured in the BounceBit App Store. 
+title: "[App]: "
+labels: ["new app"]
+body:
+  - type: input
+    id: app_name
+    attributes:
+      label: App Name
+      description: The official name of your application/protocol.
+    validations:
+      required: true
+  - type: input
+    id: club_wallet
+    attributes:
+      label: Whitelist Address: BounceClub
+      description: An address to create BounceClub for marketing.
+    validations:
+      required: true
+  - type: input
+    id: deploy_wallet
+    attributes:
+      label: Whitelist Address: Deployment
+      description: An address for deploying contract.
+    validations:
+      required: true
+  - type: textarea
+    id: app_logo
+    attributes:
+      label: App logo
+      description: |
+        An icon representing your app. For the best display in the BounceBit Store, we recommend size: 80 x 80
+        Tip: You can attach images by clicking this area to highlight it and then dragging files in.
+    validations:
+      required: true  
+- type: textarea
+    id: description
+    attributes:
+      label: App Description
+      description: |
+        Please provide a brief description of the app.
+    validations:
+      required: true
+- type: textarea
+    id: short_description
+    attributes:
+      label: One Liner for Your App
+      description: |
+        A catchy, concise statement for your app.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: App Category
+      description: Select the category that best fits your app
+      multiple: true
+      options:
+        - "DeFi"
+        - "GameFi"
+        - "SocialFi"
+        - "Collectibles / NFT"
+        - "Infrastructure"
+        - "Others"
+    validations:
+      required: true
+  - type: textarea
+    id: app_pics
+    attributes:
+      label: App Banner
+      description: |
+        Screenshots / Picture / Banner: Visual aids that showcase your app’s interface and functionality. (size: 588 x 400)
+        Tip: You can attach images by clicking this area to highlight it and then dragging files in.
+    validations:
+      required: true  
+ - type: input
+    id: app_link
+    attributes:
+      label: App Link
+      description: A direct link to where users can access your app.
+    validations:
+      required: true
+ - type: input
+    id: app_github
+    attributes:
+      label: App Repo
+      description: Link to App’s GitHub Repository for transparency into your app’s development and updates.
+    validations:
+      required: true
+
