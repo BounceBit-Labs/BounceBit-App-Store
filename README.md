@@ -6,7 +6,7 @@
 
 - **App Name**: The official name of your application.
 - **Address to be Whitelisted**: 
-  1. BounceClub:An address to create BounceClub for marketing.
+  1. BounceClub: An address to create BounceClub for marketing.
   2. Deployment: An address for deploying contract.
 - **App Icon**: An icon representing your app. Ensure it adheres to our design guidelines for the best display in the BounceBit Store (size: 80 x 80).
 - **App Description**: A brief yet descriptive explanation of your app’s purpose and key features.
