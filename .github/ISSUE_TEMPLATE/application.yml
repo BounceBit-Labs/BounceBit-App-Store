@@ -1,4 +1,4 @@
-name: Submit a project
+name: Submit App Application
 description: Submit your protocols to be featured in the BounceBit App Store. 
 title: "[App]: "
 labels: ["new app"]
@@ -27,7 +27,7 @@ body:
   - type: textarea
     id: app_logo
     attributes:
-      label: App logo
+      label: App Logo
       description: |
         An icon representing your app. For the best display in the BounceBit Store, we recommend size: 80 x 80
         Tip: You can attach images by clicking this area to highlight it and then dragging files in.
