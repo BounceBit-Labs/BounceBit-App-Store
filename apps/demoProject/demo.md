@@ -1,4 +1,7 @@
 - **App Name**: The official name of your application.
+- **WhiteList Address**
+  - Ecosystem Club Creator: an address to create BounceClub for marketing.
+  - Ecosystem Contract Deployer: an address for deploying contract.
 - **App Icon**: An icon representing your app. Ensure it adheres to our design guidelines for the best display in the BounceBit Store.(size: 80 x 80)
 - **App Description**: A brief yet descriptive explanation of your app’s purpose and key features.
 - **One Liner for Your Application**: A catchy, concise statement summarizing your app.
