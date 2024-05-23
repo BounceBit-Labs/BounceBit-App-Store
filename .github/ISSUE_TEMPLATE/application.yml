@@ -33,7 +33,7 @@ body:
         Tip: You can attach images by clicking this area to highlight it and then dragging files in.
     validations:
       required: true  
-- type: textarea
+  - type: textarea
     id: description
     attributes:
       label: App Description
@@ -41,7 +41,7 @@ body:
         Please provide a brief description of the app.
     validations:
       required: true
-- type: textarea
+  - type: textarea
     id: short_description
     attributes:
       label: One Liner for Your App
@@ -73,18 +73,17 @@ body:
         Tip: You can attach images by clicking this area to highlight it and then dragging files in.
     validations:
       required: true  
- - type: input
+  - type: input
     id: app_link
     attributes:
       label: App Link
       description: A direct link to where users can access your app.
     validations:
       required: true
- - type: input
+  - type: input
     id: app_github
     attributes:
       label: App Repo
       description: Link to App’s GitHub Repository for transparency into your app’s development and updates.
     validations:
       required: true
-
