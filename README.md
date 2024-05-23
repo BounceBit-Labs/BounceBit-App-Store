@@ -1,22 +1,8 @@
 ### **Steps to Submit Your App to the BounceBit Store**
 
-1. Fork BounceBit-App-Store repo
-2. Add a new folder with the same name as the project to apps/.
-3. Include App details in the new folder. 
-4. Make a Pull Request with the changes on your fork, to the main BounceBit-App-Store repo, with a brief explanation of what you changed.
-5. Please give the team 1 week to review and list your App to the BounceBit Store
+1. Start an [application](https://github.com/BounceBit-Labs/BounceBit-App-Store/issues/new?assignees=&labels=new+app&projects=&template=application.yml&title=%5BApp%5D%3A+)
 
-### 1. Fork BounceBit-App-Store Repository
-
-Initiate the process by creating a fork of our repository [BounceBit-App-Store](https://github.com/BounceBit-Labs/BounceBit-App-Store). 
-
-### 2. Add a New Folder for Your Project
-
-Inside the **`apps/`** directory of your forked repository, create a new folder. Name this folder after your project to keep our directory organized and to facilitate easier navigation and review by our team.
-
-### 3. Populate Your App's Folder
-
-In the newly created folder, include the following essential elements for your app submission:
+2. Include the following essential elements for your application:
 
 - **App Name**: The official name of your application.
 - **Address to be Whitelisted**: 
@@ -31,11 +17,6 @@ In the newly created folder, include the following essential elements for your a
 - **Link to App’s GitHub Repository**: For transparency into your app’s development and updates.
 
 
+#### _Review Process_
+After submitting your application, please allow up to one week for our team to review your app. We carefully evaluate each submission to ensure it meets our quality standards and offers value to our users. You will be notified once the review is complete and invited to **create a BounceClub** if your app is accepted to be listed on the BounceBit Store.
 
-### 4. Submit a Pull Request
-
-Once you have made the necessary changes and additions in your forked repository, submit a Pull Request (PR) to our main repository. In your PR, include a brief explanation of your app and the changes you've made. 
-
-### 5. Review Process
-
-After submitting your PR, please allow up to one week for our team to review your app. We carefully evaluate each submission to ensure it meets our quality standards and offers value to our users. You will be notified once the review is complete and if your app is accepted to be listed on the BounceBit Store.
